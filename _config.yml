@@ -30,4 +30,6 @@ twitter: http://twitter.com/search?q=helix+toolkit
 so : http://stackoverflow.com/search?q=helix+toolkit
 
 github:
-  repo: http://github.com/helix-toolkit/helix-toolkit
+  user: helix-toolkit
+  repo: helix-toolkit
+  url: http://github.com/helix-toolkit/helix-toolkit
