@@ -10,8 +10,8 @@ pygments: false
 permalink: '/announcements/:title'
 
 # Setup
-title: Helix 3D Toolkit
-tagline: '3D library for .NET'
+title: Helix Toolkit
+tagline: '3D for .NET'
 description: 'A 3D library for .NET'
 url: http://helix-toolkit.github.io/
 
@@ -24,7 +24,7 @@ paginate_path: '/announcements/:num'
 
 # Custom vars
 version: 2014.1
-forum: http://discussion.oxyplot.org
+build: https://ci.appveyor.com/project/objorke/helix-toolkit
 nuget: http://www.nuget.org/packages?q=HelixToolkit
 twitter: http://twitter.com/search?q=helix+toolkit
 so : http://stackoverflow.com/search?q=helix+toolkit
