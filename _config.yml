@@ -1,0 +1,33 @@
+# Dependencies
+markdown: kramdown
+
+kramdown:
+  input: GFM
+
+pygments: false
+
+# Permalinks
+permalink: '/announcements/:title'
+
+# Setup
+title: Helix 3D Toolkit
+tagline: '3D library for .NET'
+description: 'A 3D library for .NET'
+url: http://helix-toolkit.github.io/
+
+author:
+  name: 'Oystein Bjorke'
+  url: http://twitter.com/OysteinBjorke
+
+paginate: 5
+paginate_path: '/announcements/:num'
+
+# Custom vars
+version: 2014.1
+forum: http://discussion.oxyplot.org
+nuget: http://www.nuget.org/packages?q=HelixToolkit
+twitter: http://twitter.com/search?q=helix+toolkit
+so : http://stackoverflow.com/search?q=helix+toolkit
+
+github:
+  repo: http://github.com/helix-toolkit/helix-toolkit
