@@ -26,8 +26,8 @@ paginate_path: '/announcements/:num'
 version: 2014.1
 build: https://ci.appveyor.com/project/objorke/helix-toolkit
 nuget: http://www.nuget.org/packages?q=HelixToolkit
-twitter: http://twitter.com/search?q=helix+toolkit
-so : http://stackoverflow.com/search?q=helix+toolkit
+twitter: https://twitter.com/hashtag/Helix3DToolkit
+so : http://stackoverflow.com/questions/tagged/helix-3d-toolkit
 
 github:
   user: helix-toolkit
