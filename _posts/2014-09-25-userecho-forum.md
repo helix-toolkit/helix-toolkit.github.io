@@ -7,3 +7,4 @@ A [forum][forum] has been added at [userecho.com][userecho]. Please use the foru
 
 [forum]: http://helixtoolkit.userecho.com/
 [issues]: https://github.com/helix-toolkit/helix-toolkit/issues
+[userecho]: http://userecho.com/
