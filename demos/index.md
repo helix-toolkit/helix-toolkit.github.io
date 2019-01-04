@@ -40,4 +40,7 @@ title: Demos
 
 ### WPF / SharpDX
 
-- todo
+[![Material](/public/images/demos/sharpDX/MaterialDemo.PNG)](sharpDX/materials)
+[![ModelLoader](/public/images/demos/sharpDX/PBRHelmet.PNG)](sharpDX/materials)
+[![PostEffects](/public/images/demos/sharpDX/PostEffects.PNG)](sharpDX/posteffects)
+[![BoneSkinning](/public/images/demos/sharpDX/SkeletonAnimation.PNG)](sharpDX/boneSkin)
