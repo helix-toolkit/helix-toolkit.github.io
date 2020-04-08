@@ -19,6 +19,8 @@ Example code can be found in the [Source/Examples] folder in the [repository].
 
 The documentation can be found at [docs.helix-toolkit.org][docs]. Note that it is under construction. Please contribute!
 
+Guides are also available at [GitHub Wiki][wiki].
+
 ### Questions
 
 Use the discussion forum at [forum.helix-toolkit.org] if you have questions regarding the library. You can also try the [chat room] or [Stack Overflow].
@@ -59,6 +61,7 @@ The project is supported by
 [announcements]: http://helix-toolkit.org/announcements/
 [atom feed]: http://helix-toolkit.org/atom.xml
 [docs]: http://docs.helix-toolkit.org/
+[wiki]: https://github.com/helix-toolkit/helix-toolkit/wiki
 
 [repository]: https://github.com/helix-toolkit/helix-toolkit
 [Source/Examples]: https://github.com/helix-toolkit/helix-toolkit/tree/master/Source/Examples
