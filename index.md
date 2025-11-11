@@ -11,13 +11,15 @@ published: true
 
 Use the [NuGet] package manager to add the [Helix Toolkit package][NuGet packages] for your platform. 
 
+For the next generation version, check out [Helix Toolkit Nex][helix-toolkit-nex].
+
 ### Examples
 
 Example code can be found in the [Source/Examples] folder in the [repository].
 
 ### Documentation
 
-The documentation can be found at [docs.helix-toolkit.org][docs]. Note that it is under construction. Please contribute!
+The documentation can be found at [docs.helix-toolkit.github.io][docs]. Note that it is under construction. Please contribute!
 
 Guides are also available at [GitHub Wiki][wiki].
 
@@ -58,15 +60,16 @@ The project is supported by
 [NuGet packages]: http://www.nuget.org/packages?q=helixtoolkit
 [Portable Class Library]: http://msdn.microsoft.com/en-us/library/vstudio/gg597391(v=vs.100).aspx
 
-[announcements]: http://helix-toolkit.org/announcements/
-[atom feed]: http://helix-toolkit.org/atom.xml
-[docs]: http://docs.helix-toolkit.org/
+[announcements]: https://helix-toolkit.github.io/announcements/
+[atom feed]: https://helix-toolkit.github.io/atom.xml
+[docs]: https://helix-toolkit.github.io/docs/
 [wiki]: https://github.com/helix-toolkit/helix-toolkit/wiki
 
 [repository]: https://github.com/helix-toolkit/helix-toolkit
 [Source/Examples]: https://github.com/helix-toolkit/helix-toolkit/tree/master/Source/Examples
 [contributors]: https://github.com/helix-toolkit/helix-toolkit/graphs/contributors
 [issues]: https://github.com/helix-toolkit/helix-toolkit/issues/
+[helix-toolkit-nex]: https://github.com/helix-toolkit/helix-toolkit-nex
 
 [forum.helix-toolkit.org]: http://forum.helix-toolkit.org/
 [chat room]: https://gitter.im/helix-toolkit/helix-toolkit
