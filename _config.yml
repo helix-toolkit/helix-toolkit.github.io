@@ -13,7 +13,7 @@ permalink: '/announcements/:title'
 title: Helix Toolkit
 tagline: '3D for .NET'
 description: 'A 3D library for .NET'
-url: http://helix-toolkit.github.io/
+url: https://helix-toolkit.github.io/
 
 author:
   name: 'Oystein Bjorke'
@@ -32,4 +32,8 @@ so : http://stackoverflow.com/questions/tagged/helix-3d-toolkit
 github:
   user: helix-toolkit
   repo: helix-toolkit
-  url: http://github.com/helix-toolkit/helix-toolkit
+  url: https://github.com/helix-toolkit/helix-toolkit
+  pages:
+    helix-toolkit: https://helix-toolkit.github.io/helix-toolkit/
+    helix-toolkit-nex: https://helix-toolkit.github.io/helix-toolkit-nex/
+    docs: https://helix-toolkit.github.io/docs/
