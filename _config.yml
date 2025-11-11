@@ -1,39 +1,8 @@
-# Dependencies
-markdown: kramdown
-
-kramdown:
-  input: GFM
-
-pygments: false
-
-# Permalinks
-permalink: '/announcements/:title'
-
-# Setup
+# Minimal configuration for GitHub Pages
 title: Helix Toolkit
-tagline: '3D for .NET'
-description: 'A 3D library for .NET'
+description: '3D Graphics for .NET'
 url: https://helix-toolkit.github.io/
 
-author:
-  name: 'Oystein Bjorke'
-  url: http://twitter.com/OysteinBjorke
-
-paginate: 5
-paginate_path: '/announcements/:num'
-
-# Custom vars
-version: 2014.1
-build: https://ci.appveyor.com/project/objorke/helix-toolkit
-nuget: http://www.nuget.org/packages?q=HelixToolkit
-twitter: https://twitter.com/hashtag/Helix3DToolkit
-so : http://stackoverflow.com/questions/tagged/helix-3d-toolkit
-
-github:
-  user: helix-toolkit
-  repo: helix-toolkit
-  url: https://github.com/helix-toolkit/helix-toolkit
-  pages:
-    helix-toolkit: https://helix-toolkit.github.io/helix-toolkit/
-    helix-toolkit-nex: https://helix-toolkit.github.io/helix-toolkit-nex/
-    docs: https://helix-toolkit.github.io/docs/
+# Links
+helix-toolkit: https://helix-toolkit.github.io/helix-toolkit/
+helix-toolkit-nex: https://helix-toolkit.github.io/helix-toolkit-nex/
